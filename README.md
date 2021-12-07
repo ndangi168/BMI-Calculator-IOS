@@ -1,7 +1,5 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  BMI Calculator
+This is practice repo. made to practice swift code. It was initially made by app brewery.
 
 ## Our Goal
 
